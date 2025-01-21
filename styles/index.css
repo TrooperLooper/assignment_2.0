@@ -369,8 +369,5 @@ p {
     color: black;
   }
 
-  /*----------------- not sure why this part below is not working but i guess something is overruling this  ------------------------*/
-  .last-section {
-    color:pink;
-  }
+ 
 
